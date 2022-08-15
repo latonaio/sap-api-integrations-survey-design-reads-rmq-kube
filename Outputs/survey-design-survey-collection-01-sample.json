@@ -1,0 +1,36 @@
+{
+	"cursor": "/Users/latona2/bitbucket/sap-api-integrations-survey-design-reads-rmq-kube/SAP_API_Caller/caller.go#L53",
+	"function": "sap-api-integrations-survey-design-reads-rmq-kube/SAP_API_Caller.(*SAPAPICaller).SurveyRootCollection",
+	"level": "INFO",
+	"message": [
+		{
+			"ObjectID": "00163E04DCEB1ED2BFF75DD91A32A7FF",
+			"ID": "4",
+			"Version": "1",
+			"Name": "Product Audit",
+			"NameLanguageCode": "EN",
+			"NameLanguageCodeText": "English",
+			"TypeCode": "2",
+			"TypeCodeText": "Product",
+			"CategoryCode": "2",
+			"CategoryCodeText": "Products",
+			"ValidFromDate": "2013-08-01T09:00:00+09:00",
+			"ValidToDate": "",
+			"LifeCycleStatusCode": "3",
+			"LifeCycleStatusCodeText": "Obsolete",
+			"PreviousAnswersIndicator": true,
+			"PreviousRuntimeProductsIndicator": false,
+			"MatrixViewIndicator": false,
+			"PaginationIndicator": false,
+			"IncludeProductListIndicator": false,
+			"SalesOrganisationID": "",
+			"ServiceOrganisationID": "",
+			"EntityLastChangedOn": "2019-04-24T17:53:13+09:00",
+			"ETag": "2019-04-24T17:53:13+09:00",
+			"TotalMaximumScoreValue": 0,
+			"TotalMinimumScoreValue": 0,
+			"SurveyCreationDateTime": "2013-08-08T08:42:14+09:00"
+		}
+	],
+	"time": "2022-07-25T21:58:04+09:00"
+}
